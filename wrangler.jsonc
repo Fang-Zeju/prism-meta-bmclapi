@@ -1,0 +1,5 @@
+{
+	"name": "prism-meta-bmclapi",
+	"main": "worker.js",
+	"compatibility_date": "2026-10-19"
+}
